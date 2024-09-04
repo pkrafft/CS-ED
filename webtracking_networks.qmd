@@ -121,11 +121,11 @@ library(dplyr)
 library(RColorBrewer)
 library(classInt)
 
-conov_net <- read_graph("data/replication/icwsm_polarization/all.graphml", format = "graphml")
+conov_net <- read_graph("data/all.graphml", format = "graphml")
 
-nodes <- read.table("data/replication/icwsm_polarization/all.nodes.txt")
+nodes <- read.table("data/all.nodes.txt")
 
-edges <- read.table("data/replication/icwsm_polarization/all.edgelist.txt")
+edges <- read.table("data/all.edgelist.txt")
 
 nodes %>% 
   head(5) %>%
