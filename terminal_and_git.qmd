@@ -456,7 +456,9 @@ rm test_3
 
 or
 
-    rm test_*
+```         
+rm test_*
+```
 
 Which one do you like?
 
@@ -471,11 +473,15 @@ rm exercise/
 
 The `rm` command should not work because `exercise` is not a file. Type `rm --help` and see which flag will be helpful. It might be \`-d' (remove empty directories).
 
-    rm -d exercise/  
+```         
+rm -d exercise/  
+```
 
 Oops. Still not working because the directory is not empty. Try this. Now, it works.
 
-    rm -r exercise/ 
+```         
+rm -r exercise/ 
+```
 
 What's `-r`? It stands for recursion (e.g., Recursion is a very powerful idea in programming and helps solve complex problems. We'll come back to it many times (e.g., `purrr::reduce()` in R).
 
@@ -889,7 +895,7 @@ Writing an informative commit is essential. To learn how to do this better, see 
 
 ```{=html}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m0t1mOeAJgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://vimeo.com/99478552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> Your Commits Should Tell a Story • Featuring Eliza Brock Marcum, GitHub Training & Guides </p>
 ```
@@ -989,7 +995,7 @@ Useful to deploy websites. I used the GitHub page to deploy this book.
 
 ```{=html}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4TrOCv5Kukk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://vimeo.com/99803035" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> Webcast • Get Started with GitHub Pages • Featuring Dani Traphagen, GitHub Training & Guides </p>
 ```
@@ -999,9 +1005,9 @@ Useful to collect and respond to questions and suggestions (e.g., bug reports an
 
 ```{=html}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJlYiMp8FuY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/yFQ-p6wMS_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p> Webcast • GitHub Issues • A Quick Look, GitHub Training & Guides </p>
+<p> Webcast • GitHub Issues • Using Projects for feature planning </p>
 ```
 ### Project management: GitHub Dashboards
 
