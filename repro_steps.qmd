@@ -96,7 +96,7 @@ Ta da! Congratulations: you're on your to producing reproducible research :).
 
 ## Writing up in Markdown
 
-Let's say we want to answer one of the questions in [Worksheet 1](https://cjbarrie.github.io/CS-ED/webtracking_networks.html).
+Let's say we want to answer one of the questions in [Worksheet 1](./webtracking_networks.html).
 
 We'd first open our R Project that we've already linked to Github by following the steps above.
 
@@ -140,4 +140,4 @@ After which we should see it on our remote version as below:
 
 ![](images/Screenshot%202022-10-17%20at%2012.15.39.png)
 
-And we're done! Now just rinse and repeat\...
+And we're done! Now just rinse and repeat...
