@@ -718,14 +718,8 @@ For more information on the varieties of version control systems, please read [P
 ```
 ![Figure 2.1. A schematic git workflow from Healy's "The Plain Person's Guide to Plain Text Social Science"](https://plain-text.co/figures/git-basic.png)
 
-For more information, watch the following video:
+For more information, see [GitHub's introductory tutorials](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources).
 
-```{=html}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u6G3fbmpWr8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p> The Basics of Git and GitHub, GitHub Training & Guides </p>
-```
 ### Setup
 
 #### Signup
