@@ -91,9 +91,7 @@ mean (x, na.rm = TRUE)
 
 -   Indenting
 
-Indent at least 4 spaces. Note that some people, including none other than [Roger Peng](https://simplystatistics.org/2018/07/27/why-i-indent-my-code-8-spaces/), indent 8 spaces. The below example shows how you can change the default indentation setting using the RStudio configuration.
-
-![Roger Peng's tweet](https://pbs.twimg.com/media/CuHHs7yXgAAFWeh?format=jpg&name=360x360)
+Indent at least 4 spaces. Note that some people, including none other than [Roger Peng](https://simplystatistics.org/2018/07/27/why-i-indent-my-code-8-spaces/), indent 8 spaces. You can change the default indentation setting using the RStudio configuration. Go to Tools > Global Options... > Code > Editing, and look for the option "Insert spaces for Tab".
 
 ```{r eval= FALSE}
 # Good
@@ -156,8 +154,6 @@ arrange(value)
 -   Additional tips
 
 -   Use `lintr` to check whether your code complies with a recommended style guideline (e.g., `tidyverse`) and `styler` package to format your code according to the style guideline.
-
-![how lintr works](https://camo.GitHubusercontent.com/6cb80270269165a8d3046d2da03cbf2b8f19ee2f/687474703a2f2f692e696d6775722e636f6d2f61635632374e562e676966)
 
 ### Write reusable code
 
