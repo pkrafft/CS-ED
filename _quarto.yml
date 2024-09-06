@@ -3,7 +3,7 @@ project:
 
 book:
   title: "Computational Sociology (PGSP11583)"
-  author: "Delivery: Dr  Peaks Krafft, Materials: Dr Christopher Barrie"
+  author: "Peaks Krafft, Christopher Barrie"
   cover-image: images/cover.png
   repo-url: https://github.com/pkrafft/CS-ED/
   repo-branch: master
