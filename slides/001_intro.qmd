@@ -1,7 +1,7 @@
 ---
 title: "Week 1"
 subtitle: "Computational Sociology"
-author: Christopher Barrie
+author: Peaks Krafft, Christopher Barrie
 format:
   revealjs:
     chalkboard: true
