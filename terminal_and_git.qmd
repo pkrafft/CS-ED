@@ -219,9 +219,7 @@ $ pwd
 >
 > The good news: because these basic commands were so integral to the development of early Unix, they have stuck around and appear (in some form) in almost all programming languages.
 
-> If you're working on a Mac, the file structure will look similar, but not identical. The following image shows a file system graph for the typical Mac.
-
-![File Directory](/Users/cbarrie6/Dropbox/Teaching/Edinburgh/teaching/CS_22-23/CS-ED/_book/images/dirtree.png)
+> If you're working on a Mac, the file structure will look similar, but not identical.
 
 We know that our current working directory `/home/jae` is stored inside `/home` because `/home` is the first part of its name. Similarly, we know that `/home` is stored inside the root directory `/` because its name begins with `/`.
 
