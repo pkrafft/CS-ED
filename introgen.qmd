@@ -72,14 +72,8 @@ rdd
 
 -   Spacing
 
-Some people do spacing by pressing the Tab key, and others do it by pressing the Space key multiple times (and this is a serious subject).
+Some people do spacing by pressing the Tab key, and others do it by pressing the Space key multiple times.
 
-```{=html}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SsoOG6ZeyUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p> Tabs versus Spaces </p>
-```
 ```{r, eval = FALSE}
 
 # Good
